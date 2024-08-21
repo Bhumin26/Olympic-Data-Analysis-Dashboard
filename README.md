@@ -10,3 +10,4 @@ Utilized Power BI to analyze the Olympic Games dataset, uncovering key insights 
 5. Total countries that participated (answer: 145 countries).
 6. The total number of sports (answer: 56).
 
+![olympic dataset dashboard ](https://github.com/user-attachments/assets/8e0c6f71-6036-4883-bc89-bbba7540d876)
